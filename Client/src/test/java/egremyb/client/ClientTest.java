@@ -1,6 +1,6 @@
 package egremyb.client;
 
-import egremyb.common.Protocol;
+import egremyb.Protocol.Protocol;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

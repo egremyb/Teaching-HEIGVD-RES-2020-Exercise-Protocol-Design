@@ -1,6 +1,6 @@
 package egremyb.server;
 
-import egremyb.common.Protocol;
+import egremyb.Protocol.Protocol;
 
 import java.io.BufferedReader;
 import java.io.IOException;

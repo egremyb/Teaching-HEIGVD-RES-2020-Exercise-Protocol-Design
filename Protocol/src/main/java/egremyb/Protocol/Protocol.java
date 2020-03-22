@@ -1,4 +1,4 @@
-package egremyb.common;
+package egremyb.Protocol;
 
 /**
  *

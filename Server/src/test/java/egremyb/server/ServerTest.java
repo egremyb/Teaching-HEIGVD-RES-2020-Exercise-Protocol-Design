@@ -1,7 +1,6 @@
 package egremyb.server;
 
-import egremyb.common.Protocol;
-
+import egremyb.Protocol.Protocol;
 import org.junit.Test;
 
 import java.io.*;
